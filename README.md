@@ -1,3 +1,3 @@
-### Hi there 👋
+### hey!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackTulipLatte)](https://github.com/anuraghazra/github-readme-stats)
